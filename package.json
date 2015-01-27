@@ -1,0 +1,26 @@
+{
+  "name": "async-call",
+  "version": "1.0.0",
+  "description": "Yet another async library for nodejs",
+  "main": "async.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tonynasta/async-call.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "async"
+  ],
+  "author": "Anton Permyakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonynasta/async-call/issues"
+  }
+}

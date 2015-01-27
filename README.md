@@ -4,6 +4,10 @@
 Yet another async library for nodejs
 
 
+## Installation
+
+    npm install async-call
+
 ## Methods
 
 **Flow control** methods:
